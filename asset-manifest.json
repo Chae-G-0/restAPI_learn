@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restAPI_learn/static/css/main.013258d4.css",
+    "main.js": "/restAPI_learn/static/js/main.05c1daef.js",
+    "index.html": "/restAPI_learn/index.html",
+    "main.013258d4.css.map": "/restAPI_learn/static/css/main.013258d4.css.map",
+    "main.05c1daef.js.map": "/restAPI_learn/static/js/main.05c1daef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013258d4.css",
+    "static/js/main.05c1daef.js"
+  ]
+}
