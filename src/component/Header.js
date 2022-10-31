@@ -11,9 +11,9 @@ const Header = () => {
             <Link to="/CreateWord" className='link'>
                 단어 추가
             </Link>
-            <a href="#x" className='link'>
+            <Link to="/CreateDay" className='link'>
                 Day 추가
-            </a>
+            </Link>
         </div>
     </header>
   )
